@@ -30,7 +30,6 @@ export default function MultiTVs(){
       <TV name="LG"/>
       <TV name="Sony"/>
     </View>
-
   );
   }
 
