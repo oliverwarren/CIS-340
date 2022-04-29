@@ -1,7 +1,6 @@
 import React from 'react';
 import { Text, View, SectionList} from 'react-native';
   
-
 export default StatesApp = () => {
 
     return(
